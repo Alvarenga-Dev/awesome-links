@@ -59,10 +59,11 @@
 ### Icons
 
 - [Fontawesome](https://fontawesome.com/icons?d=gallery)
-- [Iconfinder](https://www.iconfinder.com/)
-- [Material.io](https://material.io/resources/icons/)
-- [Icons8](https://icons8.com/)
 - [Flaticon](https://www.flaticon.com/)
+- [Iconfinder](https://www.iconfinder.com/)
+- [Ionicons](https://ionicons.com/)
+- [Icons8](https://icons8.com/)
+- [Material.io](https://material.io/resources/icons/)
 
 #### Icons / React
 
@@ -71,6 +72,7 @@
 
 ### Fonts
 
+- [DaFont](https://www.dafont.com/pt/)
 - [Google Fonts](https://fonts.google.com/)
 
 ### Web Design
